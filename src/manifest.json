@@ -1,0 +1,9 @@
+{
+  "name": "StockFlow 进销存工作台",
+  "appid": "__UNI__STOCK FLOW",
+  "description": "免费开源的商品、采购、销售与库存预警工作台",
+  "versionName": "0.1.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "mp-weixin": { "appid": "touristappid", "setting": { "urlCheck": false } }
+}
