@@ -1,6 +1,6 @@
 # StockFlow Miniapp
 
-StockFlow 是一个免费开源的进销存移动工作台，基于 uni-app + Vue 3 + TypeScript，同时支持微信小程序与 H5 预览。店员可以查看库存概览、处理采购入库、确认销售出库、查看低库存预警和库存流水。
+StockFlow 是进销存移动工作台，基于 uni-app + Vue 3 + TypeScript，同时支持微信小程序与 H5 预览。店员可以查看库存概览、处理采购入库、确认销售出库、查看低库存预警和库存流水。
 
 ## 关联仓库
 
